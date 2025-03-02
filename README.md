@@ -15,9 +15,9 @@ Welcome to **The Riders Adda**! This is a platform designed for biking enthusias
 
 ## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js, Express (if applicable)
-- **Database:** MongoDB / Firebase (if applicable)
-- **Hosting:** Builder.io (Preview Mode)
+- **Backend:** Node.js, Express 
+- **Database:** MongoDB / Firebase 
+- **Hosting:** Builder.io 
 
 ## Setup & Deployment
 If you are contributing to the project, follow these steps:
