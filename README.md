@@ -1,6 +1,6 @@
 # The Riders Adda
 
-Welcome to **The Riders Adda**! This is a platform designed for biking enthusiasts to connect, share experiences, and explore new riding adventures together.........
+Welcome to **The Riders Adda**! This is a platform designed for biking enthusiasts to connect, share experiences, and explore new riding adventures together.
 
 ## Website Link
 [Visit The Riders Adda](https://the-riders-adda-agbnqbblvas8bp4x.builder-preview.com/)
